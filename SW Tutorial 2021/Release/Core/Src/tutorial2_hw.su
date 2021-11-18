@@ -1,0 +1,4 @@
+tutorial2_hw.c:47:13:btn_state	8	static
+tutorial2_hw.c:69:6:gpio_classwork	0	static
+tutorial2_hw.c:75:6:tft_classwork	0	static
+tutorial2_hw.c:81:6:tutorial2_homework	0	static

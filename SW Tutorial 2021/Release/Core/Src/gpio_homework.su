@@ -1,0 +1,2 @@
+gpio_homework.c:11:6:btn_state	8	static
+gpio_homework.c:23:6:gpio_homework	16	static
